@@ -1,0 +1,8 @@
+{
+  "name": "Helios Master Field Engineer",
+  "description": "A high-performance real-time industrial repair assistant using multimodal vision and Gemini 3 reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
